@@ -1,8 +1,9 @@
 #title {
   font-family: "freight-big-pro";
   font-style: italic;
+  display: inline-block;
 }
 
 #logo {
-
+  display: inline-block;
 }
