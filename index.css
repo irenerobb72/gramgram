@@ -3,14 +3,7 @@
   margin-top: none;
 }
 
-#title {
-  font-family: "freight-big-pro";
-  font-style: italic;
-  display: inline-block;
-  margin-right: 5px;
-}
-
 #logo {
-  display: inline-block;
-  margin-right: 5px;
+float: left;
+margin-right: 5px;
 }
