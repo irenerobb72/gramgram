@@ -1,3 +1,8 @@
+#buttonions {
+  float: right;
+  margin-top: none;
+}
+
 #title {
   font-family: "freight-big-pro";
   font-style: italic;
@@ -9,8 +14,4 @@
 #logo {
   display: inline-block;
   margin-right: 5px;
-}
-
-#buttonions {
-  display: inline-block;
 }
