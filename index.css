@@ -2,8 +2,15 @@
   font-family: "freight-big-pro";
   font-style: italic;
   display: inline-block;
+  margin-right: 5px;
+
 }
 
 #logo {
+  display: inline-block;
+  margin-right: 5px;
+}
+
+#buttonions {
   display: inline-block;
 }
