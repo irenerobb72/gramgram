@@ -9,6 +9,11 @@ margin-right: 5px;
 }
 
 #bio {
-margin-left: 200px;  
+  float: right;
+}
 
+#me {
+  margin-top: 1px;
+  float: left;
+  margin-right: 300px;
 }
