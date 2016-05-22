@@ -9,11 +9,18 @@ margin-right: 5px;
 }
 
 #bio {
-  float: right;
 }
 
 #me {
   margin-top: 1px;
-  float: left;
-  margin-right: 300px;
+  margin-right: 250px;
+  margin left: 50px;
+}
+
+#mordor {
+  margin-right: 10px;
+}
+
+#sticks {
+  margin-right: 10px;
 }
